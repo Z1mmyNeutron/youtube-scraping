@@ -5,9 +5,8 @@ try {
     (async () => {
 
         let keywords = [
-            'scrapeulous.com',
-            'scraping youtube',
-            'stupid prank',
+            'song',
+            'avustin james'
         ];
 
         const browser = await puppeteer.launch();
